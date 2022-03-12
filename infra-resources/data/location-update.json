@@ -1,0 +1,10 @@
+{
+    "id":102,
+    "name":"Kamarhati",
+    "type":"Regional Branch",
+    "status":"2",
+    "location":{
+        "lat":"-28.32555",
+        "lng":"-5.91531"
+    }
+}

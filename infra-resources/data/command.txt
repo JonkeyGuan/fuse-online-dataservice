@@ -1,0 +1,5 @@
+curl -d "@location.json"  -H "Content-Type: application/json" -X POST https://i-location-rest-api-fuse-online.apps.ocp1.example.com/locations -k -v  
+
+curl -d "@location-update.json"  -H "Content-Type: application/json" -X PUT https://i-location-rest-api-fuse-online.apps.ocp1.example.com/locations/102 -k -v  
+
+curl -H "Content-Type: application/json" -X DELETE https://i-location-rest-api-fuse-online.apps.ocp1.example.com/locations/102 -k -v  
